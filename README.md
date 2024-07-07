@@ -50,6 +50,6 @@ My css was actually quite improved in the process, especially with text-alignmen
 ## Author
 
 - Website - [James Ibezim](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Jimztech](https://www.frontendmentor.io/profile/Jimztech)
 - Twitter - [engr_jamie](https://www.x.com/engr_jamie)
 
