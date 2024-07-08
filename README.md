@@ -49,7 +49,7 @@ My css was actually quite improved in the process, especially with text-alignmen
 
 ## Author
 
-- Website - [James Ibezim](https://www.your-site.com)
+- Website - [James Ibezim](https://www.linkedin.com/in/james-chiagozie-ibezim/)
 - Frontend Mentor - [@Jimztech](https://www.frontendmentor.io/profile/Jimztech)
 - Twitter - [engr_jamie](https://www.x.com/engr_jamie)
 
